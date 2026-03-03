@@ -14,7 +14,19 @@ An interactive Power BI dashboard built to monitor business revenue, track KPIs,
 - Slicers and filters for drill-down analysis by segment
 
 ## 📸 Dashboard Preview
-*(Screenshot coming soon)*
+*## 📸 Dashboard Preview
+
+### Overview
+![Overview](dashboard_preview.png)
+
+### Customer Insights
+![Customer Insights](dashboard_customers.png)
+
+### Product & Region
+![Product & Region](dashboard_products.png)
+
+### Insights & Recommendations
+![Insights](dashboard_insights.png)*
 
 ## 📁 Files
 | File | Description |
